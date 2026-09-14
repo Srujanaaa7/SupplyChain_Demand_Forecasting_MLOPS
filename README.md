@@ -2,15 +2,6 @@
 
 > Predicting spare-parts demand across 500 SKUs — with full MLOps infrastructure, drift monitoring, and a production-ready FastAPI serving layer.
 
----
-
-## 🚀 Live Deployments
-
-| Service | URL |
-|---|---|
-| 📊 Streamlit Dashboard | [supplychain-forecast-mlops.streamlit.app](https://supplychain-forecast-mlops.streamlit.app) |
-| ⚡ FastAPI (Swagger UI) | [supplychain-forecast-api.onrender.com/docs](https://supplychain-forecast-api.onrender.com/docs) |
-| 🧪 MLflow Experiment Tracker | [dagshub.com/amitabh1609/SupplyChain_Demand_Forecasting_MLOPS](https://dagshub.com/amitabh1609/SupplyChain_Demand_Forecasting_MLOPS) |
 
 ---
 
